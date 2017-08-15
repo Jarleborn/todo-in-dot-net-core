@@ -1,0 +1,10 @@
+/home/hampus/Programmering/tododotnetcore/bin/Debug/netcoreapp2.0/tododotnetcore.deps.json
+/home/hampus/Programmering/tododotnetcore/bin/Debug/netcoreapp2.0/tododotnetcore.runtimeconfig.json
+/home/hampus/Programmering/tododotnetcore/bin/Debug/netcoreapp2.0/tododotnetcore.runtimeconfig.dev.json
+/home/hampus/Programmering/tododotnetcore/bin/Debug/netcoreapp2.0/tododotnetcore.dll
+/home/hampus/Programmering/tododotnetcore/bin/Debug/netcoreapp2.0/tododotnetcore.pdb
+/home/hampus/Programmering/tododotnetcore/obj/Debug/netcoreapp2.0/tododotnetcore.csproj.CoreCompileInputs.cache
+/home/hampus/Programmering/tododotnetcore/obj/Debug/netcoreapp2.0/tododotnetcore.AssemblyInfoInputs.cache
+/home/hampus/Programmering/tododotnetcore/obj/Debug/netcoreapp2.0/tododotnetcore.AssemblyInfo.cs
+/home/hampus/Programmering/tododotnetcore/obj/Debug/netcoreapp2.0/tododotnetcore.dll
+/home/hampus/Programmering/tododotnetcore/obj/Debug/netcoreapp2.0/tododotnetcore.pdb
